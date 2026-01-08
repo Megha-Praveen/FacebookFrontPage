@@ -1,0 +1,118 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.left-sec
+{
+    padding-left: 100px;
+    padding-top: 200px;
+    text-align: left;
+}
+
+.left-sec img
+{
+    height: 70px;
+}
+
+.left-sec h2
+{
+    padding-left: 15px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 32px;
+    width: 500px;
+}
+
+.right-sec
+{
+    padding-top: 100px;
+    text-align: left;
+}
+
+.inputtext
+{
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 330px;   
+}
+
+.inputpass
+{
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 330px;   
+}
+
+.loginform
+{
+    align-items: center;
+    background-color: #fff;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px #0000001a, 0 8px 16px #0000001a;
+    box-sizing: border-box;
+    margin: 10px 0 0;
+    padding: 20px 0 28px;
+    width: 390px;
+}
+
+form
+{
+    text-align: center;
+}
+
+.loginbutton
+{
+    background-color: #0866ff;
+    width: 332px;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    color: white;
+    font-weight: 700;
+}
+
+.newbutton
+{
+    background-color: #42b72a;
+    width: 215px;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    color: white;
+    font-weight: 500;
+}
+
+.line
+{
+    padding-top: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+}
+
+.fplink
+{
+    text-decoration: none;
+}
+
+.fplink2
+{
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+
+.fplink3
+{
+    padding-left: 40px;
+    padding-top: 20px;
+    text-align: left;
+}
